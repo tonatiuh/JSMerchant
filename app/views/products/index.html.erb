@@ -10,7 +10,7 @@
     <tr>
       <td><%= image_tag "/images/products/#{product.image_url}" %></td>
       <td><span class="product_title"><%= product.title %></span><%= product.description %></td>
-      <td><%= product.price %></td>
+      <td><%= print_price(product.price) %></td>
     </tr>
   <% end %>
 </table>
