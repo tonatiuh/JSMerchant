@@ -1,0 +1,2 @@
+Files by following the Jumpstartlab tutorial 
+[http://tutorials.jumpstartlab.com/projects/jsmerchant.html]
